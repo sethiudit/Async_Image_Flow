@@ -76,4 +76,4 @@ This project is an image processing system designed to handle CSV files containi
 
 # LLD Draw IO
 
-Click the image below to view [LLD.pdf](https://github.com/sethiudit/Async_Image_Flow/blob/main/Low%20Level%20Design.pdf)
+Click the Link below to view [LLD.pdf](https://github.com/sethiudit/Async_Image_Flow/raw/main/Low%20Level%20Design.pdf)
