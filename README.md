@@ -45,8 +45,8 @@ This project is an image processing system designed to handle CSV files containi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-processing-system.git
-   cd image-processing-system
+   git clone https://github.com/sethiudit/Async_Image_Flow.git
+   cd Async_Image_Flow
 
 ## Configuration
 
@@ -76,6 +76,4 @@ This project is an image processing system designed to handle CSV files containi
 
 # LLD Draw IO
 
-Click the image below to view [LLD.pdf](https://github.com/user-attachments/files/16325981/lld.pdf)
-
-[Low Level Design.pdf](https://github.com/sethiudit/Async_Image_Flow/blob/130299376fe391d24f2a808895843320b68d537a/Low%20Level%20Design.pdf)
+Click the image below to view [LLD.pdf](https://github.com/sethiudit/Async_Image_Flow/blob/main/Low%20Level%20Design.pdf)
