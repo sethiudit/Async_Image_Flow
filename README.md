@@ -8,12 +8,12 @@
 - [Configuration](#configuration)
 - [Running the Application](#running-the-application)
 - [API Documentation](#api-documentation)
-  - [Upload API](#upload-api)
+  <!-- - [Upload API](#upload-api)
   - [Status API](#status-api)
-  - [Webhook API](#webhook-api)
+  - [Webhook API](#webhook-api) -->
 - [Database Schema](#database-schema)
-  - [Request Collection](#request-collection)
-  - [Product Collection](#product-collection)
+  <!-- - [Request Collection](#request-collection)
+  - [Product Collection](#product-collection) -->
 - [Asynchronous Workers Documentation](#asynchronous-workers-documentation)
 - [LLD Draw.io Diagram PDF](#lld-draw.io-diagram-pdf)
 
